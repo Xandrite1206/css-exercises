@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.class{
+    background-color: rgb(234, 116, 116); font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cooler{
+    font-size: 24px;
+}
+#ID{
+    color: blue; font-size: 36px;
+}
+#other{
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
